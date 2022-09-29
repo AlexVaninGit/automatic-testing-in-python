@@ -1,1 +1,1 @@
-# automatic-testing-in-python
+# Автоматизация тестирования с помощью Selenium и Python
